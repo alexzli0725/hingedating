@@ -1,0 +1,3 @@
+--- xcodebuild: WARNING: Using the first of multiple matching destinations:
+{ platform:iOS Simulator, id:EBA0F965-554E-44BA-8449-03B9264F9CCA, OS:17.4, name:No Inspector }
+{ platform:iOS Simulator, id:EBA0F965-554E-44BA-8449-03B9264F9CCA, OS:17.4, name:No Inspector }
